@@ -1,0 +1,12 @@
+D:\Repos\HelloConsoleApp\bin\Debug\netcoreapp3.0\HelloConsole.exe
+D:\Repos\HelloConsoleApp\bin\Debug\netcoreapp3.0\HelloConsole.deps.json
+D:\Repos\HelloConsoleApp\bin\Debug\netcoreapp3.0\HelloConsole.runtimeconfig.json
+D:\Repos\HelloConsoleApp\bin\Debug\netcoreapp3.0\HelloConsole.runtimeconfig.dev.json
+D:\Repos\HelloConsoleApp\bin\Debug\netcoreapp3.0\HelloConsole.dll
+D:\Repos\HelloConsoleApp\bin\Debug\netcoreapp3.0\HelloConsole.pdb
+D:\Repos\HelloConsoleApp\obj\Debug\netcoreapp3.0\HelloConsole.csprojAssemblyReference.cache
+D:\Repos\HelloConsoleApp\obj\Debug\netcoreapp3.0\HelloConsole.csproj.CoreCompileInputs.cache
+D:\Repos\HelloConsoleApp\obj\Debug\netcoreapp3.0\HelloConsole.AssemblyInfoInputs.cache
+D:\Repos\HelloConsoleApp\obj\Debug\netcoreapp3.0\HelloConsole.AssemblyInfo.cs
+D:\Repos\HelloConsoleApp\obj\Debug\netcoreapp3.0\HelloConsole.dll
+D:\Repos\HelloConsoleApp\obj\Debug\netcoreapp3.0\HelloConsole.pdb

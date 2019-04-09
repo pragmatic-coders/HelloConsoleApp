@@ -1,0 +1,12 @@
+D:\repos\HW-NetCore-Console\bin\Debug\netcoreapp3.0\HW-NetCore-Console.exe
+D:\repos\HW-NetCore-Console\bin\Debug\netcoreapp3.0\HW-NetCore-Console.deps.json
+D:\repos\HW-NetCore-Console\bin\Debug\netcoreapp3.0\HW-NetCore-Console.runtimeconfig.json
+D:\repos\HW-NetCore-Console\bin\Debug\netcoreapp3.0\HW-NetCore-Console.runtimeconfig.dev.json
+D:\repos\HW-NetCore-Console\bin\Debug\netcoreapp3.0\HW-NetCore-Console.dll
+D:\repos\HW-NetCore-Console\bin\Debug\netcoreapp3.0\HW-NetCore-Console.pdb
+D:\repos\HW-NetCore-Console\obj\Debug\netcoreapp3.0\HW-NetCore-Console.csprojAssemblyReference.cache
+D:\repos\HW-NetCore-Console\obj\Debug\netcoreapp3.0\HW-NetCore-Console.csproj.CoreCompileInputs.cache
+D:\repos\HW-NetCore-Console\obj\Debug\netcoreapp3.0\HW-NetCore-Console.AssemblyInfoInputs.cache
+D:\repos\HW-NetCore-Console\obj\Debug\netcoreapp3.0\HW-NetCore-Console.AssemblyInfo.cs
+D:\repos\HW-NetCore-Console\obj\Debug\netcoreapp3.0\HW-NetCore-Console.dll
+D:\repos\HW-NetCore-Console\obj\Debug\netcoreapp3.0\HW-NetCore-Console.pdb
